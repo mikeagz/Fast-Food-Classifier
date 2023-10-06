@@ -1,3 +1,3 @@
-data/raw/*
-data/processed/*
-models/*
+data/raw/Fast Food Classification V2
+data/processed/*.npz
+models/*.h5
